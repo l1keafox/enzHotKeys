@@ -379,25 +379,26 @@ checkspotandClick(1011,475)
 Return
 
 ::!it!::
-MouseClick, M, 169, 365, 1, 3
-MouseClick, M, 169, 390, 1, 3
-MouseClick, M, 169, 421, 1, 3
-MouseClick, M, 169, 448, 1, 3
-MouseClick, M, 169, 471, 1, 3
+;MouseClick, M, 173, 365, 1, 3
+MouseClick, M, 173, 390, 1, 3
+;MouseClick, M, 169, 421, 1, 3
+;MouseClick, M, 169, 448, 1, 3
+;MouseClick, M, 169, 471, 1, 3
 
 ; Parent
-MouseClick, M, 900, 375, 1, 3
-MouseClick, M, 900, 400, 1, 3
-MouseClick, M, 900, 425, 1, 3
-MouseClick, M, 900, 450, 1, 3
-MouseClick, M, 900, 475, 1, 3
+;MouseClick, M, 900, 375, 1, 3
+;MouseClick, M, 960, 400, 1, 3
+checkspotandClick(960,400)
+;MouseClick, M, 900, 425, 1, 3
+;MouseClick, M, 900, 450, 1, 3
+;MouseClick, M, 900, 475, 1, 3
 
 ; Child
-MouseClick, M, 1029, 375, 1, 3
-MouseClick, M, 1029, 400, 1, 3
-MouseClick, M, 1029, 425, 1, 3
-MouseClick, M, 1029, 450, 1, 3
-MouseClick, M, 1029, 475, 1, 3
+;MouseClick, M, 1029, 375, 1, 3
+MouseClick, M, 1134, 400, 1, 3
+MouseClick, M, 1134, 425, 1, 3
+MouseClick, M, 1134, 450, 1, 3
+MouseClick, M, 1134, 475, 1, 3
 
 
 Return
