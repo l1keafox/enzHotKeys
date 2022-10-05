@@ -14,6 +14,8 @@
 
     Using auto hot keys to setup short cuts. 
     https://www.autohotkey.com/
+    
+    For my old work as a threat reseacher this would click various buttons on the database for me.
 
 # Writer
 
